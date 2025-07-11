@@ -8,6 +8,10 @@ A plugin that enables mark-down style code blocks in any file.
 - Toggle code block markers
 - Automatic highlighting
 
+## Screenshot
+<img width="1626" height="668" alt="image" src="https://github.com/user-attachments/assets/a1f551c8-4a36-4107-a8f8-d4a1f3d8148b" />
+
+
 ## Installation
 
 ### Using [packer.nvim](https://github.com/wbthomason/packer.nvim)
