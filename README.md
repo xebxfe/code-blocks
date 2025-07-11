@@ -1,6 +1,6 @@
 # code-blocks
 
-A plugin that enables mark-down style code blocks in any file.
+A [neovim](https://github.com/neovim/neovim) plugin that enables mark-down style code blocks in any file.
 
 ## Features
 - Uses treesitter for syntax highlighting
